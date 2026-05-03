@@ -4,6 +4,11 @@ BluIce atua no desenvolvimento de softwares, sistemas web, bibliotecas e ferrame
 
 Criamos soluções modernas, funcionais e duráveis, com foco em desempenho, simplicidade e controle técnico. Cada projeto é desenvolvido de forma objetiva, priorizando organização, eficiência e evolução contínua.
 
+## 📡 Onde nos encontrar
+
+- 🔴 **YouTube**: [youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
+- 🎥 **Twitch**: [twitch.tv/canalbluice](https://twitch.tv/canalbluice)
+
 ## Tecnologias
 
 Atualmente, o BluIce utiliza as seguintes tecnologias em seus projetos:
@@ -62,8 +67,3 @@ Nosso trabalho é orientado por:
 Cada projeto desenvolvido pelo BluIce pode possuir sua própria licença.
 
 Consulte o arquivo de licença de cada repositório para verificar os termos específicos.
-
-## 📡 Onde nos encontrar
-
-- 🔴 **YouTube**: [youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
-- 🎥 **Twitch**: [twitch.tv/canalbluice](https://twitch.tv/canalbluice)
