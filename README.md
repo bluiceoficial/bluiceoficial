@@ -6,7 +6,7 @@ Criamos soluções modernas, funcionais e duráveis, com foco em desempenho, sim
 
 ## 📡 Onde nos encontrar
 
-- 🔴 **YouTube**: [youtube.com/@bluiceoficial](https://youtube.com/@bluiceoficial
+- 🔴 **YouTube**: [youtube.com/@bluiceoficial](https://youtube.com/@bluiceoficial)
 - 🎥 **Twitch**: [twitch.tv/canalbluice](https://twitch.tv/canalbluice)
 
 ## Tecnologias
