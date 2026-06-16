@@ -6,7 +6,7 @@ Criamos soluções modernas, funcionais e duráveis, com foco em desempenho, sim
 
 ## 📡 Onde nos encontrar
 
-- 🔴 **YouTube**: [youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
+- 🔴 **YouTube**: [youtube.com/@bluiceoficial](https://youtube.com/@bluiceoficial
 - 🎥 **Twitch**: [twitch.tv/canalbluice](https://twitch.tv/canalbluice)
 
 ## Tecnologias
