@@ -9,13 +9,9 @@ Além do desenvolvimento de software, produzimos conteúdos sobre programação,
 * **YouTube:** https://youtube.com/@bluiceoficial
 * **Twitch:** https://twitch.tv/canalbluice
 
-## 💙 BluVIP
+## 💙 Apoia-se
 
-O acesso aos nossos **modelos, softwares, bibliotecas, scripts e código-fonte** é disponibilizado aos assinantes do **BluVIP**.
-
-**Assinatura:** **R$ 59,90/mês**
-
-👉 https://livepix.gg/bluice/bluvip
+👉 https://apoia.se/canalbluice
 
 ## 🛠️ Tecnologias
 
