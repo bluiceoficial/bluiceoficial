@@ -23,10 +23,6 @@ Agradecemos a todos que estão apoiando o BluIce no LivePix, com seu apoio podem
 
 ## 📜 Licenciamento
 
-Os projetos do BluIce seguem um modelo:
-
-* **MIT/LGPL/GPL:** bibliotecas e componentes livres para uso em projetos pessoais e comerciais.
-
 Consulte sempre o arquivo `LICENSE` antes de utilizar qualquer projeto.
 
 ---
