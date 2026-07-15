@@ -13,7 +13,7 @@ Além do desenvolvimento de software, produzimos conteúdos sobre programação,
 
 Agradecemos a todos que estão apoiando o BluIce no Apoia.se, com seu apoio podemos ampliar nossos horários de lives e material para estudo.
 
-👉 https://apoia.se/canalbluice
+👉 https://livepix.gg/bluice/bluvip
 
 ## 🛠️ Tecnologias
 
