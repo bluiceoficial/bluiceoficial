@@ -18,6 +18,8 @@ Agradecemos a todos que estão apoiando o BluIce no LivePix, com seu apoio podem
 ## 🛠️ Tecnologias
 
 * PHP
+* Go
+* SQLite3
 * MariaDB
 * Linux
 
